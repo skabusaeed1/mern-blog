@@ -21,6 +21,11 @@ const Header = () => {
                 Sign In
               </Button>
             </Link>
+            <Link to='/sign-up'>
+              <Button>
+                Sign up
+              </Button>
+            </Link>
         </div>
             <Navbar.Collapse>
                 <Navbar.Link as={'div'}>
